@@ -1,0 +1,14 @@
+C:\Users\sparshita_chowdhury\source\repos\dot_net-epam-team\team-2\sparshita\helloFromSparshita\bin\Debug\net8.0\helloFromSparshita.exe
+C:\Users\sparshita_chowdhury\source\repos\dot_net-epam-team\team-2\sparshita\helloFromSparshita\bin\Debug\net8.0\helloFromSparshita.deps.json
+C:\Users\sparshita_chowdhury\source\repos\dot_net-epam-team\team-2\sparshita\helloFromSparshita\bin\Debug\net8.0\helloFromSparshita.runtimeconfig.json
+C:\Users\sparshita_chowdhury\source\repos\dot_net-epam-team\team-2\sparshita\helloFromSparshita\bin\Debug\net8.0\helloFromSparshita.dll
+C:\Users\sparshita_chowdhury\source\repos\dot_net-epam-team\team-2\sparshita\helloFromSparshita\bin\Debug\net8.0\helloFromSparshita.pdb
+C:\Users\sparshita_chowdhury\source\repos\dot_net-epam-team\team-2\sparshita\helloFromSparshita\obj\Debug\net8.0\helloFromSparshita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sparshita_chowdhury\source\repos\dot_net-epam-team\team-2\sparshita\helloFromSparshita\obj\Debug\net8.0\helloFromSparshita.AssemblyInfoInputs.cache
+C:\Users\sparshita_chowdhury\source\repos\dot_net-epam-team\team-2\sparshita\helloFromSparshita\obj\Debug\net8.0\helloFromSparshita.AssemblyInfo.cs
+C:\Users\sparshita_chowdhury\source\repos\dot_net-epam-team\team-2\sparshita\helloFromSparshita\obj\Debug\net8.0\helloFromSparshita.csproj.CoreCompileInputs.cache
+C:\Users\sparshita_chowdhury\source\repos\dot_net-epam-team\team-2\sparshita\helloFromSparshita\obj\Debug\net8.0\helloFromSparshita.dll
+C:\Users\sparshita_chowdhury\source\repos\dot_net-epam-team\team-2\sparshita\helloFromSparshita\obj\Debug\net8.0\refint\helloFromSparshita.dll
+C:\Users\sparshita_chowdhury\source\repos\dot_net-epam-team\team-2\sparshita\helloFromSparshita\obj\Debug\net8.0\helloFromSparshita.pdb
+C:\Users\sparshita_chowdhury\source\repos\dot_net-epam-team\team-2\sparshita\helloFromSparshita\obj\Debug\net8.0\helloFromSparshita.genruntimeconfig.cache
+C:\Users\sparshita_chowdhury\source\repos\dot_net-epam-team\team-2\sparshita\helloFromSparshita\obj\Debug\net8.0\ref\helloFromSparshita.dll
