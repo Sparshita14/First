@@ -1,0 +1,14 @@
+C:\Users\himaja_geetha\Documents\github\colab_project\dot_net-epam-team\team-2\geetha\hello from geetha\bin\Debug\net8.0\hello from geetha.exe
+C:\Users\himaja_geetha\Documents\github\colab_project\dot_net-epam-team\team-2\geetha\hello from geetha\bin\Debug\net8.0\hello from geetha.deps.json
+C:\Users\himaja_geetha\Documents\github\colab_project\dot_net-epam-team\team-2\geetha\hello from geetha\bin\Debug\net8.0\hello from geetha.runtimeconfig.json
+C:\Users\himaja_geetha\Documents\github\colab_project\dot_net-epam-team\team-2\geetha\hello from geetha\bin\Debug\net8.0\hello from geetha.dll
+C:\Users\himaja_geetha\Documents\github\colab_project\dot_net-epam-team\team-2\geetha\hello from geetha\bin\Debug\net8.0\hello from geetha.pdb
+C:\Users\himaja_geetha\Documents\github\colab_project\dot_net-epam-team\team-2\geetha\hello from geetha\obj\Debug\net8.0\hello from geetha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\himaja_geetha\Documents\github\colab_project\dot_net-epam-team\team-2\geetha\hello from geetha\obj\Debug\net8.0\hello from geetha.AssemblyInfoInputs.cache
+C:\Users\himaja_geetha\Documents\github\colab_project\dot_net-epam-team\team-2\geetha\hello from geetha\obj\Debug\net8.0\hello from geetha.AssemblyInfo.cs
+C:\Users\himaja_geetha\Documents\github\colab_project\dot_net-epam-team\team-2\geetha\hello from geetha\obj\Debug\net8.0\hello from geetha.csproj.CoreCompileInputs.cache
+C:\Users\himaja_geetha\Documents\github\colab_project\dot_net-epam-team\team-2\geetha\hello from geetha\obj\Debug\net8.0\hello from geetha.dll
+C:\Users\himaja_geetha\Documents\github\colab_project\dot_net-epam-team\team-2\geetha\hello from geetha\obj\Debug\net8.0\refint\hello from geetha.dll
+C:\Users\himaja_geetha\Documents\github\colab_project\dot_net-epam-team\team-2\geetha\hello from geetha\obj\Debug\net8.0\hello from geetha.pdb
+C:\Users\himaja_geetha\Documents\github\colab_project\dot_net-epam-team\team-2\geetha\hello from geetha\obj\Debug\net8.0\hello from geetha.genruntimeconfig.cache
+C:\Users\himaja_geetha\Documents\github\colab_project\dot_net-epam-team\team-2\geetha\hello from geetha\obj\Debug\net8.0\ref\hello from geetha.dll
